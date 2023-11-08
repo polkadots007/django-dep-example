@@ -28,7 +28,7 @@ SECRET_KEY = '!2&u$+%vjhv(q3fz$n+q=%5-uz(&whdj72mxo3#fzk9s-ikq96'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['polkadots.pythonanywhere.com']
 
 
 # Application definition
